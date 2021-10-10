@@ -10,3 +10,10 @@ Based on the data schema shared in kaggle website that is showed below, I create
 ![data_model](https://i.imgur.com/HRhd2Y0.png)
 
 <img width="923" alt="DataModel" src="https://user-images.githubusercontent.com/61323876/136704315-b738f575-ffcf-43f8-a235-6790e93bf16d.png">
+
+## Dashboard
+
+<img width="960" alt="Dashboard" src="https://user-images.githubusercontent.com/61323876/136705407-71d486e3-dc83-40c2-8203-d1614dcb940e.png">
+
+__Click [here](https://public.tableau.com/app/profile/filipe7270/viz/BrazilianEcomerceStore/Dashboard1?publish=yes) to open the dashboard and try it out!__
+
