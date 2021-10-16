@@ -1,6 +1,8 @@
 # Brazilian E-Commerce Store Sales Analysis
 In this project I represent a Data Analyst at the Brazilian Ecommerce Store (Olist Store) with the task to create a map showing sellers in their geolocations with bubbles to illustrate how much money in total payments they have received from customers.
 
+![EcommerceStore](https://user-images.githubusercontent.com/61323876/137591511-511e8aaf-5aa0-439e-8ba0-b4ad9ca087fd.jpg)
+
 ## Data Source
 This is a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil that you can check [here](https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_customers_dataset.csv) in csv format and loaded directly into Tableau.
 
