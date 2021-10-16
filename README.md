@@ -13,7 +13,7 @@ Based on the data schema shared in kaggle website that is showed below, I create
 
 ## Dashboard
 
-<img width="960" alt="Dashboard" src="https://user-images.githubusercontent.com/61323876/136705407-71d486e3-dc83-40c2-8203-d1614dcb940e.png">
-
 __Click [here](https://public.tableau.com/app/profile/filipe7270/viz/BrazilianEcomerceStore/Dashboard1?publish=yes) to open the dashboard and try it out!__
+
+<img width="960" alt="Dashboard" src="https://user-images.githubusercontent.com/61323876/136705407-71d486e3-dc83-40c2-8203-d1614dcb940e.png">
 
